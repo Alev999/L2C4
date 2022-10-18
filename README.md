@@ -2,11 +2,11 @@
 # Lineage 2 Elite C4 Patcher Updated 18/10/2022
 
 # Drops Symbols: 
-Updated 18/10/2022
+# Updated 18/10/2022
 
-Holiday Token - Cola
-Clan Medal	- Cola
-Chaotic Stone - Statue
+# Holiday Token - Cola
+# Clan Medal	- Cola
+# Chaotic Stone - Statue
 Clan Reputation Points - Statue
 Clan Honor Coin - Statue
 Gran Kain's Stone - Statue
