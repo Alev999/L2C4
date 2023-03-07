@@ -1,5 +1,5 @@
 # L2C4  --  First Open Launcher Update and after put the files
-# Lineage 2 Elite C4 Patcher Updated 18/10/2022
+# Lineage 2 Elite C4 Patcher Updated 18/10/2022 (OUTDATED)
 
 # Drops Symbols: 
 # Updated 18/10/2022
